@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <table> 
 <tr> 
   <td> 
-    🎓 Je poursuis actuellement mon <b>Master 1 en Developpement Multimedia</b>. <br>
-    🌱 J'apprends actuellement <b>Laravel</b> ainsi que <b>Vue.js</b> et je m'intéresse également au <b>React Js</b>. <br>
+    🎓 Je poursuis actuellement mon <b>Master 2 en Developpement FullStack Big Data</b>. <br>
+    🌱 J'apprends actuellement <b>Next js</b> ainsi que <b>MongoDB</b> et je m'intéresse également au <b>React Js</b>. <br>
     🎯 Mon objectif est de contribuer à autant de <b>projets open source</b> que possible. <br>
     ✨ J'adore créer différents types de <b>contenus</b>. <br>
 <td> 
