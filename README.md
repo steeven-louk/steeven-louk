@@ -1,35 +1,43 @@
-### HELLO 👋
+# Hello, I'm Steeven Louk 👋
+### Fullstack Web Developer | Founder of LOUKTECK DIGITAL 🚀
 
-<!--
-**steeven-louk/steeven-louk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate Fullstack Developer specializing in building high-performance web applications and digital solutions for SMEs and associations.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- 🏢 **Founder & CEO** at **LOUKTECK DIGITAL**
+- 🛠️ Expertise in building scalable web applications from scratch (Frontend & Backend).
+- 🎯 Focused on delivering clean, secure, and user-friendly digital experiences.
+-  Based in **France**.
 
-<table> 
-<tr> 
-  <td> 
-    🎓 Je poursuis actuellement mon <b>Master 2 en Developpement FullStack Big Data</b>. <br>
-    🌱 J'apprends actuellement <b>Next js</b> ainsi que <b>MongoDB</b> et je m'intéresse également au <b>React Js</b>. <br>
-    🎯 Mon objectif est de contribuer à autant de <b>projets open source</b> que possible. <br>
-    ✨ J'adore créer différents types de <b>contenus</b>. <br>
-<td> 
-  <h2>Ceci est ma carte daily.dev</h2>
-  <a href="https://app.daily.dev/ishimaru "><img src="https://api.daily.dev/devcards/925b8169b9584334b8cffb7e42c73e6a.png?r=z01" width="400" alt="steeven_louk's Dev Card"/></a>
-  </td>
-</tr> 
-</table>
+---
 
-
-## Stats📈 <p>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=steeven-louk&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="steeven-louk" />  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=steeven-louk&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="steeven-louk" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=steeven-louk&theme=highcontrast&hide_border=true" alt="steeven-louk" /> 
+### ⚡ Professional Card
+<p align="center">
+    <a href="https://app.daily.dev/ishimaru"><img src="https://api.daily.dev/devcards/v2/iARBR9emEYROtux0pkFzU.png?r=uea&type=wide" width="652" alt="steeven_louk's Dev Card"/></a>
 </p>
+
+---
+
+### 🛠️ Tech Stack & Tools 
+- **Frontend:** React.js, Next.js, TypeScript, TailwindCSS, HTML5/CSS3.
+- **Backend:** Node.js, Express.js, API REST.
+- **Databases:** Prisma ORM, MongoDB, PostgreSQL, SQLite.
+- **DevOps & Design:** Vercel, Netlify, Git, Figma.
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=steeven-louk&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="steeven-louk languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=steeven-louk&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="steeven-louk stats" />
+</p>
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=steeven-louk&theme=highcontrast&hide_border=true" alt="steeven-louk streak" />
+</p>
+
+### 📫 Reach Me
+- 🌐 **Portfolio:** [[Steeven Portfolio]](https://steevenportfolio.vercel.app/)
+- 💼 **LinkedIn:** [[Steeven LinkedIn]](https://www.linkedin.com/in/steeven-loukanou/)
+- 📧 **Email:** steevenlouk@hotmail.com
