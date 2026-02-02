@@ -38,6 +38,7 @@ Passionate Fullstack Developer specializing in building high-performance web app
 </p>
 
 ### 📫 Reach Me
-- 🌐 **Portfolio:** [[Steeven Portfolio]](https://steevenportfolio.vercel.app/)
-- 💼 **LinkedIn:** [[Steeven LinkedIn]](https://www.linkedin.com/in/steeven-loukanou/)
+- 🌐 **Portfolio:** [Steeven Portfolio](https://steeven-portfolio.loukteck.com)
+- 🌐 **Malt:** [Steeven MALT](https://www.malt.fr/profile/steevenloukanou)
+- 💼 **LinkedIn:** [Steeven LinkedIn](https://www.linkedin.com/in/steeven-loukanou)
 - 📧 **Email:** steevenlouk@hotmail.com
